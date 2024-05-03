@@ -95,14 +95,6 @@ ul {
     color: plum;
 }
 
-#menu-icon {
-    font-size: 35px;
-    color: var(--text-color);
-   
-    cursor: pointer;
-    margin-left: 25px;
-    display: none;
-}
 
 section {
     padding: 1px 1% 1px;
@@ -110,7 +102,7 @@ section {
 
 .home {
     position: relative;
-    height: -100px;
+    
     width: 100%;
     background-image: url(/img/background.jpg);
     background-size: cover;
