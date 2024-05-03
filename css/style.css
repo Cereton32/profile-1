@@ -29,6 +29,7 @@ body {
 header {
     position: relative;
     width: 102%;
+    height: auto;
     top: 0;
     right: 0;
     z-index: 100;
